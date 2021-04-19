@@ -48,8 +48,7 @@ Support Auto set SDK location.
 
 <a href="https://ibb.co/PZm9Njz"><img src="https://i.ibb.co/Z6LYVX1/5.png" alt="5" border="0" /></a>
 
-<a href="https://ibb.co/x3J19cB"><img src="https://ibb.co/x3J19cB/4.png" alt="5" border="0" /></a>
-
+<a href="https://ibb.co/x3J19cB"><img src="https://i.ibb.co/XVS70dK/4.png" alt="4" border="0" /></a>
 <<< Some Videos >>>
 
 How To Set the tool for first time : 
