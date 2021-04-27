@@ -8,8 +8,8 @@ Contact ME on Discord
 7.Hackers#3446
 
 Updated to 27.4.2021 : 
- >> Fixed Some GUI , instead that black white view of the background on higher performance PCs. <<
- >> 
+ >> Fixed Some GUI , instead that black white view of the background on higher performance PCs. 
+ 
 :: My 7 Super Tool :: 
 
 it enables you to add : 
