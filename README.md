@@ -9,6 +9,7 @@ Contact ME on Discord
 
 Updated to 26.4.2021 : 
  >> Fixed Some GUI , instead that black white view of the background on higher performance PCs.
+ >> 
 :: My 7 Super Tool :: 
 
 it enables you to add : 
