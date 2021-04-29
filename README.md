@@ -7,6 +7,7 @@ Contact ME on Discord
 
 7.Hackers#3446
 
+Updating now to a better menu , with login form , and updated GUI of the tool , also adding some new stuff i will let you know about in few hours 
 Updated to 27.4.2021 : 
  >> Fixed Some GUI , instead that black white view of the background on higher performance PCs. 
  
