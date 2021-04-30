@@ -7,7 +7,25 @@ Contact ME on Discord
 
 7.Hackers#3446
 
-Updating now to a better menu , with login form , and updated GUI of the tool , also adding some new stuff i will let you know about in few hours 
+>> Updated to 30.4.2021 
+
+Add Login From 
+
+Updated to LGL 2.4 
+
+Merged 3 different templates in 1 template now 
+
+Updated GUI of the template  
+
+Removed Set NDK Version , No need now thanks to the set SDK location ( prefer you have 1 ndk folder like 21.1.231312)  
+
+fixed chams , (now you can add it then add other hacks , instead adding chams in the latest section)
+
+Updated Tool GUI 
+
+Added New Section , (Implementation Codes both M1 and M2 )
+
+
 
 Updated to 27.4.2021 : 
  >> Fixed Some GUI , instead that black white view of the background on higher performance PCs. 
