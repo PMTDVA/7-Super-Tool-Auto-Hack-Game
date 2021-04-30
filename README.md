@@ -7,6 +7,13 @@ Contact ME on Discord
 
 7.Hackers#3446
 
+>> Updated to 1.5.2021
+
+Fixed Menu Can't be built, with the lib name issue
+
+fixed application.mk is missing .
+
+
 >> Updated to 30.4.2021 
 
 Add Login From 
