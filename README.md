@@ -125,6 +125,8 @@ Mika Cybertron#5240 || Arm Converter
 
 github.com/LGLTeam  ||Template
 
+Lucifer.A#7950      || Bug Hunter
+
 And every one else who helped me ever to solve somthing
 
 <<<< ##!! you wanna help me on the tool , contact me !!## >>>>>
