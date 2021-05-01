@@ -7,6 +7,10 @@ Contact ME on Discord
 
 7.Hackers#3446
 
+>> Updated to 01.5.2021
+
+fixed log in and password , now you can change them from the tool/ settings.
+
 >> Updated to 1.5.2021
 
 Fixed Menu Can't be built, with the lib name issue
