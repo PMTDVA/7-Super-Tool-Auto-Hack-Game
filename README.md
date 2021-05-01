@@ -71,6 +71,8 @@ Support Auto set SDK location.
 
 <<< Some Pictures >>>
  
+ <a href="https://ibb.co/PZg2W2t"><img src="https://i.ibb.co/kgXLDLM/new-mod.jpg" alt="new-mod" border="0"></a>
+ 
 
 <a href="https://ibb.co/ts9CPfv"><img src="https://i.ibb.co/VSsBpyz/anima-1.gif" alt="anima-1" border="0"></a>
 
