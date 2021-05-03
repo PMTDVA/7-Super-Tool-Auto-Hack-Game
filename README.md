@@ -7,40 +7,6 @@ Contact ME on Discord
 
 7.Hackers#3446
 
->> Updated to 01.5.2021
-
-fixed log in and password , now you can change them from the tool/ settings.
-
->> Updated to 1.5.2021
-
-Fixed Menu Can't be built, with the lib name issue
-
-fixed application.mk is missing .
-
-
->> Updated to 30.4.2021 
-
-Add Login From 
-
-Updated to LGL 2.4 
-
-Merged 3 different templates in 1 template now 
-
-Updated GUI of the template  
-
-Removed Set NDK Version , No need now thanks to the set SDK location ( prefer you have 1 ndk folder like 21.1.231312)  
-
-fixed chams , (now you can add it then add other hacks , instead adding chams in the latest section)
-
-Updated Tool GUI 
-
-Added New Section , (Implementation Codes both M1 and M2 )
-
-
-
-Updated to 27.4.2021 : 
- >> Fixed Some GUI , instead that black white view of the background on higher performance PCs. 
- 
 :: My 7 Super Tool :: 
 
 it enables you to add : 
@@ -87,13 +53,13 @@ Support Auto set SDK location.
 <a href="https://ibb.co/x3J19cB"><img src="https://i.ibb.co/XVS70dK/4.png" alt="4" border="0" /></a>
 <<< Some Videos >>>
 
-How To Set the tool for first time : 
+[OLD ]How To Set the tool for first time : (Now it is auto , check the How to use Tool New ) 
 
 <iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/QAUTiIaQ#fZumeTkxmwR9Yqx0-MWxuAxPjRH8qU4xFsXFBGHHfcQ" allowfullscreen ></iframe>
 
 <<< Soon >>>
 
-Adding more Templates such as octo , and more LGL than 2.1 (note that 2.1 is more stable than 2.2 and 2.3
+Adding more Templates such as octo
 
 string hacking 
 
@@ -106,6 +72,39 @@ Multi Hook patch in one button
 Baground hacks ( i call it like this cuz it is enabled without buttons)
 
 apk tool to decompile and compile
+
+
+
+>> New Releases Notes 
+
+90 % now of setting the tool is auto.
+
+Fixed 6 Bugs
+
+fixed log in and password , now you can change them from the tool/ settings.
+
+Fixed Menu Can't be built, with the lib name issue
+
+fixed application.mk is missing .
+
+Add Login From 
+
+Updated to LGL 2.4 
+
+Merged 3 different templates in 1 template now 
+
+Updated GUI of the template  
+
+Removed Set NDK Version , No need now thanks to the set SDK location ( prefer you have 1 ndk folder like 21.1.231312)  
+
+fixed chams , (now you can add it then add other hacks , instead adding chams in the latest section)
+
+Updated Tool GUI 
+
+Added New Section , (Implementation Codes both M1 and M2 )
+
+Fixed Some GUI , instead that black white view of the background on higher performance PCs. 
+ 
 
 <<< notes on the tool >>>
 
