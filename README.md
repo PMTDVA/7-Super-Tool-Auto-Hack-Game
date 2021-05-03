@@ -108,11 +108,9 @@ Fixed Some GUI , instead that black white view of the background on higher perfo
 
 <<< notes on the tool >>>
 
+the tool needs a license in order to work , if not licenced it will lead only into crash. 
+
  don't forget to enable appear on top permission. in case you use Method 2
-
- auto vertically is enabled by default so click on settings (top right) - then enable and disable it to disable it.
-
-do not use chams first if you're gonna add new hacks like patch , (i am gonna fix this in the next update i dont have time right now)
 
 <<< credits (Discord) >>>
 
