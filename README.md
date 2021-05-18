@@ -77,6 +77,13 @@ apk tool to decompile and compile
 
 >> New Releases Notes 
 
+
+upgraded to LGL 2,7
+
+Removed Animation
+
+Added Back-Ground Hacks Beside Normal Hacks 
+
 90 % now of setting the tool is auto.
 
 Fixed 6 Bugs
@@ -127,5 +134,9 @@ github.com/LGLTeam  ||Template
 Lucifer.A#7950      || Bug Hunter
 
 And every one else who helped me ever to solve somthing
+
+Upcoming Upfate will have  >>> 
+
+unlink methods , wireframe chams , string hooking
 
 <<<< ##!! you wanna help me on the tool , contact me !!## >>>>>
