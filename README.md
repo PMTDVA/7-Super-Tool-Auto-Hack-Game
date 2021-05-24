@@ -7,6 +7,9 @@ Contact ME on Discord
 
 7.Hackers#3446
 
+>> i finished coding the auto implementation tool , i will add it to this tool as well , and will upload it very soon
+
+
 :: My 7 Super Tool :: 
 
 it enables you to add : 
