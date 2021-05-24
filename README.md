@@ -7,8 +7,6 @@ Contact ME on Discord
 
 7.Hackers#3446
 
->> i finished coding the auto implementation tool , i will add it to this tool as well , and will upload it very soon
-
 
 :: My 7 Super Tool :: 
 
@@ -26,6 +24,7 @@ Telekill
 
 Chams
 
+auto implementation 
 
 it includes  offline ARM converter 
 
@@ -62,59 +61,15 @@ Support Auto set SDK location.
 
 <<< Soon >>>
 
-Adding more Templates such as octo
+Adding more Templates such as octo || i really prefer the updatable LGL not octo , and LGL is made from it .
 
 string hacking 
 
 spinner , input value , radio button 
 
-Auto implementation to Game 
+Multi Hook, patch in one button (( multi offset ))
 
-Multi Hook patch in one button
-
-Baground hacks ( i call it like this cuz it is enabled without buttons)
-
-apk tool to decompile and compile
-
-
-
->> New Releases Notes 
-
-
-upgraded to LGL 2,7
-
-Removed Animation
-
-Added Back-Ground Hacks Beside Normal Hacks 
-
-90 % now of setting the tool is auto.
-
-Fixed 6 Bugs
-
-fixed log in and password , now you can change them from the tool/ settings.
-
-Fixed Menu Can't be built, with the lib name issue
-
-fixed application.mk is missing .
-
-Add Login From 
-
-Updated to LGL 2.4 
-
-Merged 3 different templates in 1 template now 
-
-Updated GUI of the template  
-
-Removed Set NDK Version , No need now thanks to the set SDK location ( prefer you have 1 ndk folder like 21.1.231312)  
-
-fixed chams , (now you can add it then add other hacks , instead adding chams in the latest section)
-
-Updated Tool GUI 
-
-Added New Section , (Implementation Codes both M1 and M2 )
-
-Fixed Some GUI , instead that black white view of the background on higher performance PCs. 
- 
+un-linking a method by another method for example (make a god mode for me only not the enemy too)
 
 <<< notes on the tool >>>
 
@@ -137,9 +92,5 @@ github.com/LGLTeam  ||Template
 Lucifer.A#7950      || Bug Hunter
 
 And every one else who helped me ever to solve somthing
-
-Upcoming Upfate will have  >>> 
-
-unlink methods , wireframe chams , string hooking
 
 <<<< ##!! you wanna help me on the tool , contact me !!## >>>>>
