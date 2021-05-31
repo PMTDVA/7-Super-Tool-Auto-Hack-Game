@@ -22,7 +22,7 @@ pointer function ( 1, 2 or 3 values)
 
 Telekill
 
-Chams
+Chams  color and wireframe
 
 auto implementation 
 
@@ -37,7 +37,7 @@ Support both  Method 1 and method 2 in implementation.
 Support Auto set SDK location.
 
 
-<<< Some Pictures >>>
+<<< Some Pictures OLD Pictures >>>
  
  <a href="https://ibb.co/PZg2W2t"><img src="https://i.ibb.co/kgXLDLM/new-mod.jpg" alt="new-mod" border="0"></a>
  
@@ -59,17 +59,6 @@ Support Auto set SDK location.
 
 <iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/QAUTiIaQ#fZumeTkxmwR9Yqx0-MWxuAxPjRH8qU4xFsXFBGHHfcQ" allowfullscreen ></iframe>
 
-<<< Soon >>>
-
-Adding more Templates such as octo || i really prefer the updatable LGL not octo , and LGL is made from it .
-
-string hacking 
-
-spinner , input value , radio button 
-
-Multi Hook, patch in one button (( multi offset ))
-
-un-linking a method by another method for example (make a god mode for me only not the enemy too)
 
 <<< notes on the tool >>>
 
