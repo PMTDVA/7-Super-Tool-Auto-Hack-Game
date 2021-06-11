@@ -5,7 +5,7 @@ Top Important Note !!!  The Tool will only crashes on your device unless i licen
 
 Contact ME on Discord 
 
-7.Hackers#3446
+7.Hackers#7777
 
 
 :: My 7 Super Tool :: 
@@ -68,7 +68,7 @@ the tool needs a license in order to work , if not licenced it will lead only in
 
 <<< credits (Discord) >>>
 
-7.Hackers#3446      || The owner and the tool maker
+7.Hackers#7777      || The owner and the tool maker
 
 Bakr Fayez™#4901    || License the tool
 
