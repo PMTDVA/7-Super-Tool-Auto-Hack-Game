@@ -12,29 +12,31 @@ Contact ME on Discord
 
 it enables you to add : 
 
-   Patches ( seek bar - toggle - button )
+   Patches ( seek bar - button )
 
-Hook field ( seek bar - toggle - button )
+Hook field ( seek bar - button )
 
-hook function ( seek bar - toggle - button )
+hook function ( seek bar - button )
 
-pointer function ( 1, 2 or 3 values)
+pointer function 
 
-Telekill
+Telekill - masskill
 
 Chams  color and wireframe
 
 auto implementation 
 
-it includes  offline ARM converter 
+offline ARM converter 
 
-LGL Moving Animation Rainbow Template is merged into it too . 
+LGL Moving Animation Rainbow Template design
 
 >> https://github.com/LGLTeam/Android-Mod-Menu-Animation
 
 Support both  Method 1 and method 2 in implementation.
 
 Support Auto set SDK location.
+
+auto set settings
 
 
 <<< Some Pictures OLD Pictures >>>
