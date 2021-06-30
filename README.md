@@ -43,18 +43,30 @@ auto set settings
  
  <a href="https://ibb.co/PZg2W2t"><img src="https://i.ibb.co/kgXLDLM/new-mod.jpg" alt="new-mod" border="0"></a>
  
-
 <a href="https://ibb.co/ts9CPfv"><img src="https://i.ibb.co/VSsBpyz/anima-1.gif" alt="anima-1" border="0"></a>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/X8mcvGz/1.png" alt="1" border="0" /></a>
+<a href="https://ibb.co/XXDFpLC"><img src="https://i.ibb.co/XXDFpLC/2021-06-30-170703.png" alt="2021-06-30-170703" border="0"></a>
 
-<a href="https://ibb.co/hBR9hSw"><img src="https://i.ibb.co/D9DWsZT/2.png" alt="2" border="0" /></a>
+<a href="https://ibb.co/5rG7KJx"><img src="https://i.ibb.co/5rG7KJx/other.png" alt="other" border="0"></a> 
 
-<a href="https://ibb.co/znk6kmS"><img src="https://i.ibb.co/bWfbf6r/3.png" alt="3" border="0" /></a>
+<a href="https://ibb.co/tzT42Bf"><img src="https://i.ibb.co/tzT42Bf/strings.png" alt="strings" border="0"></a>
 
-<a href="https://ibb.co/PZm9Njz"><img src="https://i.ibb.co/Z6LYVX1/5.png" alt="5" border="0" /></a>
+<a href="https://ibb.co/SsV002Z"><img src="https://i.ibb.co/SsV002Z/telekill.png" alt="telekill" border="0"></a> 
+
+<a href="https://ibb.co/K6ndDXB"><img src="https://i.ibb.co/K6ndDXB/pointer.png" alt="pointer" border="0"></a>
+
+<a href="https://ibb.co/8Yjg2sc"><img src="https://i.ibb.co/8Yjg2sc/hook-fiedl.png" alt="hook-fiedl" border="0"></a> 
+
+<a href="https://ibb.co/M5SmdL5"><img src="https://i.ibb.co/M5SmdL5/hookfunctio.png" alt="hookfunctio" border="0"></a>
+
+<a href="https://ibb.co/gyysM26"><img src="https://i.ibb.co/gyysM26/patch.png" alt="patch" border="0"></a>
+
+<a href="https://ibb.co/VTMrkKq"><img src="https://i.ibb.co/VTMrkKq/M1.png" alt="M1" border="0"></a>
 
 <a href="https://ibb.co/x3J19cB"><img src="https://i.ibb.co/XVS70dK/4.png" alt="4" border="0" /></a>
+
+
+
 <<< Some Videos >>>
 
 [OLD ]How To Set the tool for first time : (Now it is auto , check the How to use Tool New ) 
@@ -66,7 +78,9 @@ auto set settings
 
 the tool needs a license in order to work , if not licenced it will lead only into crash. 
 
- don't forget to enable appear on top permission. in case you use Method 2
+ don't forget to enable appear on top permission.
+ 
+ Strings are not working yet , i made the GUI but did not link the code yet , will be update soon , will upgrade all codes
 
 <<< credits (Discord) >>>
 
@@ -80,7 +94,7 @@ Mika Cybertron#5240 || Arm Converter
 
 github.com/LGLTeam  ||Template
 
-Lucifer.A#7950      || Bug Hunter
+Lucifer.A#9999      || Bug Hunter
 
 And every one else who helped me ever to solve somthing
 
