@@ -8,7 +8,7 @@ Contact ME on Discord
 7.Hackers#7777
 
 
-:: My 7 Super Tool :: After Exams will update again LOL in few days 
+:: My 7 Super Tool ::
 
 it enables you to add : 
 
